@@ -11,15 +11,9 @@
 - 💬 Ask me about AWS - IAM, Security Groups, Networking, Terraaform
 
 ### Tech stack
-
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <i class="devicon-nodejs-plain colored"></i>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>   
 </p>
-
-<!-- in your header -->
-
-
-<!-- in your body -->

@@ -1,16 +1,25 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
-<!--
-**with-joy/with-joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> ### Hi there 👋 my name is Joy </h1>
 
-Here are some ideas to get you started:
+### About myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on enabling people 
+- 🌱 I’m currently learning Go lang
+- 👯 I’m looking to collaborate on terraform-aws-provider and couple of others
+- 🤔 I’m looking for help with absolutely anything
+- 💬 Ask me about AWS - IAM, Security Groups, Networking, Terraaform
+
+### Tech stack
+
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  <i class="devicon-nodejs-plain colored"></i>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>   
+</p>
+
+<!-- in your header -->
+
+
+<!-- in your body -->

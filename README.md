@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
-<h1 align="center"> ### Hi there 👋 my name is Joy </h1>
+<h1 align="center"> Hi there 👋 my name is Joy </h1>
 
 ### About myself
 - 🌱 I’m currently learning Go lang

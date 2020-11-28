@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Go lang
 - 👯 I’m looking to collaborate on terraform-aws-provider and couple of others
 - 🤔 I’m looking for help with absolutely anything
-- 💬 Ask me about AWS - IAM, Security Groups, Networking, Terraaform
+- 💬 Ask me about AWS - IAM, Security Groups, Networking, Terraform
 
 ### Tech stack
 <p align="left">
